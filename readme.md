@@ -4,3 +4,5 @@
 
 Modificado blog de notas con notepad
 
+Modificado blog de notas desde otro equipo
+
